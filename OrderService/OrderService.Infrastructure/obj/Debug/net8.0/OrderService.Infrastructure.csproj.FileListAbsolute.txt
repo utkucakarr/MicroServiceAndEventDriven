@@ -1,0 +1,17 @@
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.deps.json
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Infrastructure.pdb
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Application.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Application.pdb
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.csproj.AssemblyReference.cache
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderSer.30472D0A.Up2Date
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\refint\OrderService.Infrastructure.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\OrderService.Infrastructure.pdb
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Infrastructure\obj\Debug\net8.0\ref\OrderService.Infrastructure.dll

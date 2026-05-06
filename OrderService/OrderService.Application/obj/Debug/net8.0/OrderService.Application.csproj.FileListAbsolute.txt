@@ -1,0 +1,15 @@
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.deps.json
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.pdb
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.AssemblyReference.cache
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfo.cs
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderSer.7EAAA39B.Up2Date
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\refint\OrderService.Application.dll
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.pdb
+C:\Github\MicroServiceAndEventDriven\OrderService\OrderService.Application\obj\Debug\net8.0\ref\OrderService.Application.dll

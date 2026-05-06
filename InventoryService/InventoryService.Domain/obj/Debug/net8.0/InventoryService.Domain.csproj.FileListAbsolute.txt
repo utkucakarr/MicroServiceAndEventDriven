@@ -1,0 +1,11 @@
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\bin\Debug\net8.0\InventoryService.Domain.deps.json
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\bin\Debug\net8.0\InventoryService.Domain.dll
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\bin\Debug\net8.0\InventoryService.Domain.pdb
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.AssemblyInfoInputs.cache
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.AssemblyInfo.cs
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.csproj.CoreCompileInputs.cache
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.dll
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\refint\InventoryService.Domain.dll
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\InventoryService.Domain.pdb
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Domain\obj\Debug\net8.0\ref\InventoryService.Domain.dll

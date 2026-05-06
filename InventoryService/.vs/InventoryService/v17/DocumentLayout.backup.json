@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96178A60-687F-612C-F164-D3451D014D32}|InventoryService.API\\InventoryService.API.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96178A60-687F-612C-F164-D3451D014D32}|InventoryService.API\\InventoryService.API.csproj|solutionrelative:inventoryservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.infrastructure\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.infrastructure\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\repositories\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96178A60-687F-612C-F164-D3451D014D32}|InventoryService.API\\InventoryService.API.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96178A60-687F-612C-F164-D3451D014D32}|InventoryService.API\\InventoryService.API.csproj|solutionrelative:inventoryservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D389E4C-B62A-5FB0-1107-0D11FBC69C0B}|InventoryService.Application\\InventoryService.Application.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.application\\events\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D389E4C-B62A-5FB0-1107-0D11FBC69C0B}|InventoryService.Application\\InventoryService.Application.csproj|solutionrelative:inventoryservice.application\\events\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D389E4C-B62A-5FB0-1107-0D11FBC69C0B}|InventoryService.Application\\InventoryService.Application.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.application\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D389E4C-B62A-5FB0-1107-0D11FBC69C0B}|InventoryService.Application\\InventoryService.Application.csproj|solutionrelative:inventoryservice.application\\events\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D389E4C-B62A-5FB0-1107-0D11FBC69C0B}|InventoryService.Application\\InventoryService.Application.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.application\\consumers\\ordercreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D389E4C-B62A-5FB0-1107-0D11FBC69C0B}|InventoryService.Application\\InventoryService.Application.csproj|solutionrelative:inventoryservice.application\\consumers\\ordercreatedeventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3F0CBF-7D7B-458C-BEBB-6EC8D9289EA4}|InventoryService.Domain\\InventoryService.Domain.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.domain\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3F0CBF-7D7B-458C-BEBB-6EC8D9289EA4}|InventoryService.Domain\\InventoryService.Domain.csproj|solutionrelative:inventoryservice.domain\\entities\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3F0CBF-7D7B-458C-BEBB-6EC8D9289EA4}|InventoryService.Domain\\InventoryService.Domain.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.domain\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3F0CBF-7D7B-458C-BEBB-6EC8D9289EA4}|InventoryService.Domain\\InventoryService.Domain.csproj|solutionrelative:inventoryservice.domain\\interfaces\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3F0CBF-7D7B-458C-BEBB-6EC8D9289EA4}|InventoryService.Domain\\InventoryService.Domain.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3F0CBF-7D7B-458C-BEBB-6EC8D9289EA4}|InventoryService.Domain\\InventoryService.Domain.csproj|solutionrelative:inventoryservice.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.infrastructure\\data\\stockconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\data\\stockconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.infrastructure\\migrations\\inventorydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\migrations\\inventorydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.infrastructure\\migrations\\20260504113222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88DD3877-BA44-3099-5C68-1B45FD9C1284}|InventoryService.Infrastructure\\InventoryService.Infrastructure.csproj|solutionrelative:inventoryservice.infrastructure\\migrations\\20260504113222_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96178A60-687F-612C-F164-D3451D014D32}|InventoryService.API\\InventoryService.API.csproj|c:\\github\\microserviceandeventdriven\\inventoryservice\\inventoryservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96178A60-687F-612C-F164-D3451D014D32}|InventoryService.API\\InventoryService.API.csproj|solutionrelative:inventoryservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Application\\Events\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "InventoryService.Application\\Events\\OrderItemDto.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Application\\Events\\OrderItemDto.cs",
+              "RelativeToolTip": "InventoryService.Application\\Events\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:14:48.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderCreatedEventConsumer.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Application\\Consumers\\OrderCreatedEventConsumer.cs",
+              "RelativeDocumentMoniker": "InventoryService.Application\\Consumers\\OrderCreatedEventConsumer.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Application\\Consumers\\OrderCreatedEventConsumer.cs",
+              "RelativeToolTip": "InventoryService.Application\\Consumers\\OrderCreatedEventConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:14:46.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:14:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\Repositories\\InventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:14:28.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Migrations\\InventoryDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\Migrations\\InventoryDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Migrations\\InventoryDbContextModelSnapshot.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\Migrations\\InventoryDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:14:20.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260504113222_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Migrations\\20260504113222_InitialCreate.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\Migrations\\20260504113222_InitialCreate.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Migrations\\20260504113222_InitialCreate.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\Migrations\\20260504113222_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:14:19.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InventoryService.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InventoryService.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T14:13:43.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Application\\Events\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "InventoryService.Application\\Events\\OrderCreatedEvent.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Application\\Events\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "InventoryService.Application\\Events\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:54:56.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryService.API\\appsettings.json",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.API\\appsettings.json",
+              "RelativeToolTip": "InventoryService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T10:40:19.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockConfiguration.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Data\\StockConfiguration.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\Data\\StockConfiguration.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Data\\StockConfiguration.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\Data\\StockConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwCIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:32:02.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Data\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryService.Infrastructure\\Data\\InventoryDbContext.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Infrastructure\\Data\\InventoryDbContext.cs",
+              "RelativeToolTip": "InventoryService.Infrastructure\\Data\\InventoryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:32:01.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "InventoryService.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "InventoryService.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:19:55.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Domain\\Interfaces\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "InventoryService.Domain\\Interfaces\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Domain\\Interfaces\\IInventoryRepository.cs",
+              "RelativeToolTip": "InventoryService.Domain\\Interfaces\\IInventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:19:54.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.API\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryService.API\\Program.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.API\\Program.cs",
+              "RelativeToolTip": "InventoryService.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:16:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Domain\\Entities\\Stock.cs",
+              "RelativeDocumentMoniker": "InventoryService.Domain\\Entities\\Stock.cs",
+              "ToolTip": "C:\\Github\\MicroServiceAndEventDriven\\InventoryService\\InventoryService.Domain\\Entities\\Stock.cs",
+              "RelativeToolTip": "InventoryService.Domain\\Entities\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:22:02.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\bin\Debug\net8.0\InventoryService.Application.deps.json
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\bin\Debug\net8.0\InventoryService.Application.dll
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\bin\Debug\net8.0\InventoryService.Application.pdb
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\bin\Debug\net8.0\InventoryService.Domain.dll
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\bin\Debug\net8.0\InventoryService.Domain.pdb
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\InventoryService.Application.csproj.AssemblyReference.cache
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\InventoryService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\InventoryService.Application.AssemblyInfoInputs.cache
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\InventoryService.Application.AssemblyInfo.cs
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\InventoryService.Application.csproj.CoreCompileInputs.cache
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\Inventor.DFE2E32E.Up2Date
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\InventoryService.Application.dll
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\refint\InventoryService.Application.dll
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\InventoryService.Application.pdb
+C:\Github\MicroServiceAndEventDriven\InventoryService\InventoryService.Application\obj\Debug\net8.0\ref\InventoryService.Application.dll
