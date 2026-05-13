@@ -1,5 +1,5 @@
 # Microservices & Event-Driven Architecture with .NET 8
-Bu depo, .NET 8 üzerinde Event-Driven Architecture (Koreografi) yaklaşımıyla geliştirdiğim bir mikroservis uygulamasıdır. Temel amacım, Clean Architecture prensiplerini uygulayarak servisler arası asenkron iletişimi (RabbitMQ & MassTransit) pratik bir senaryoda göstermekti.
+Bu depo, .NET 8 üzerinde Event-Driven Architecture yaklaşımıyla geliştirdiğim bir mikroservis uygulamasıdır. Temel amacım, Clean Architecture prensiplerini uygulayarak servisler arası asenkron iletişimi (RabbitMQ & MassTransit) pratik bir senaryoda göstermekti.
 
 Projeyi lokalde uğraşmadan hızlıca ayağa kaldırabilmek için tüm altyapıyı Docker Compose ile konteynerize ettim.
 
@@ -7,7 +7,7 @@ Projeyi lokalde uğraşmadan hızlıca ayağa kaldırabilmek için tüm altyapı
 Platform: .NET 8, ASP.NET Core Web API
 Mimari: Microservices, Event-Driven Architecture, Clean Architecture
 Message Broker: RabbitMQ (MassTransit üzerinden)
-Veritabanı: PostgreSQL, EF Core (Code-First)
+Database: PostgreSQL, EF Core (Code-First)
 DevOps / Ortam: Docker, Docker Compose
 API Dokümantasyonu: Swagger
 
